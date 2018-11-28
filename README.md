@@ -16,14 +16,14 @@
 
 [x] install dependencies
 
-[x] <App />
+[x] App
 
-[x] <Viewport />
+[x] Viewport
 
-[x] <Top />
+[x] Top
 
-[x] <Nav />
+[x] Nav
 
-[x] <Middle />
+[x] Middle
 
-[x] <View />
+[x] View
